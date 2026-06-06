@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LightBurnProject AppVersion="1.0.06" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="False">
+<CutSetting Type="Cut"><index Value="3" /><name Value="Etch" /><priority Value="0" /></CutSetting><CutSetting Type="Cut"><index Value="6" /><name Value="Deep Etch" /><priority Value="1" /></CutSetting><CutSetting Type="Cut"><index Value="7" /><name Value="C07" /><priority Value="2" /></CutSetting><CutSetting Type="Cut"><index Value="4" /><name Value="C04" /><priority Value="3" /></CutSetting><CutSetting Type="Cut"><index Value="8" /><name Value="C08" /><priority Value="4" /></CutSetting><CutSetting Type="Cut"><index Value="1" /><name Value="Inner Cut" /><priority Value="5" /></CutSetting><CutSetting Type="Cut"><index Value="0" /><name Value="Outer Cut" /><priority Value="6" /></CutSetting><CutSetting Type="Tool"><index Value="30" /><name Value="T1" /><priority Value="7" /></CutSetting><Shape Type="Group">
+  <Children>
+  <Shape Type="Text" CutIndex="3" Font="Arial" H="26.628" Str="MIKE BAREMORE" Bold="0" Italic="0" Ah="1" Av="1" Eval="0" VariableOffset="0">
+  <XForm>1.000 0.000 0.000 1.000 134.600 38.600</XForm>
+</Shape>
+<Shape Type="Path" CutIndex="0">
+  <VertList>V22.100 10.000c0x1c1x1V247.100 10.000c0x1c1x1V259.100 10.000c0x1c1x1V259.100 10.000c0x259.155c0y10.000c1x1V259.200 10.100c0x1c1x259.200c1y10.045V259.200 50.100c0x1c1x1V259.200 50.100c0x259.200c0y50.155c1x1V259.100 50.200c0x1c1x259.155c1y50.200V247.100 50.200c0x1c1x1V22.100 50.200c0x1c1x1V10.100 50.200c0x1c1x1V10.100 50.200c0x10.045c0y50.200c1x1V10.000 50.100c0x1c1x10.000c1y50.155V10.000 10.100c0x1c1x1V10.000 10.100c0x10.000c0y10.045c1x1V10.100 10.000c0x1c1x10.045c1y10.000V22.100 10.000c0x1c1x1</VertList>
+<PrimList>L0 1L1 2L2 3B3 4L4 5L5 6B6 7L7 8L8 9L9 10L10 11B11 12L12 13L13 14B14 15L15 16L16 0</PrimList>
+</Shape>
+<Shape Type="Path" CutIndex="1">
+  <VertList>V253.000 30.100c0x1c1x1V253.000 24.200c0x1c1x1V253.000 24.200c0x253.000c0y24.100c1x1V253.000 24.200c0x1c1x253.100c1y24.200V247.200 24.200c0x1c1x1V247.200 24.200c0x247.100c0y24.200c1x1V247.200 24.200c0x1c1x247.200c1y24.100V247.200 36.000c0x1c1x1V247.200 36.000c0x247.200c0y36.100c1x1V247.200 36.000c0x1c1x247.100c1y36.000V253.000 36.000c0x1c1x1V253.000 36.000c0x253.100c0y36.000c1x1V253.000 36.000c0x1c1x253.000c1y36.100V253.000 30.100c0x1c1x1</VertList>
+<PrimList>L0 1L1 2B2 3L3 4L4 5B5 6L6 7L7 8B8 9L9 10L10 11B11 12L12 13L13 0</PrimList>
+</Shape>
+<Shape Type="Path" CutIndex="1">
+  <VertList>V16.200 30.100c0x1c1x1V16.200 36.000c0x1c1x1V16.200 36.000c0x16.200c0y36.100c1x1V16.200 36.000c0x1c1x16.100c1y36.000V22.000 36.000c0x1c1x1V22.000 36.000c0x22.100c0y36.000c1x1V22.000 36.000c0x1c1x22.000c1y36.100V22.000 24.200c0x1c1x1V22.000 24.200c0x22.000c0y24.100c1x1V22.000 24.200c0x1c1x22.100c1y24.200V16.200 24.200c0x1c1x1V16.200 24.200c0x16.100c0y24.200c1x1V16.200 24.200c0x1c1x16.200c1y24.100V16.200 30.100c0x1c1x1</VertList>
+<PrimList>L0 1L1 2B2 3L3 4L4 5B5 6L6 7L7 8B8 9L9 10L10 11B11 12L12 13L13 0</PrimList>
+</Shape>
+</Children>
+</Shape>
+<Shape Type="Group">
+  <Children>
+  <Shape Type="Path" CutIndex="0">
+  <VertList>V272.923 10.000c0x1c1x1V292.923 10.000c0x1c1x1V292.923 10.000c0x292.978c0y10.000c1x1V293.023 10.100c0x1c1x293.023c1y10.045V293.023 44.741c0x1c1x1V293.023 44.741c0x293.023c0y44.796c1x1V292.923 44.841c0x1c1x292.978c1y44.841V292.923 44.841c0x292.888c0y44.841c1x1V292.837 44.791c0x1c1x292.855c1y44.822V285.887 32.753c0x1c1x1V285.887 32.753c0x285.837c0y32.667c1x1V285.887 32.753c0x1c1x285.973c1y32.703V280.777 35.703c0x1c1x1V280.777 35.703c0x280.729c0y35.731c1x1V280.640 35.667c0x1c1x280.668c1y35.714V274.640 25.274c0x1c1x1V274.640 25.274c0x274.613c0y25.227c1x1V274.677 25.138c0x1c1x274.629c1y25.165V279.787 22.188c0x1c1x1V279.787 22.188c0x279.873c0y22.138c1x1V279.787 22.188c0x1c1x279.837c1y22.274V272.837 10.150c0x1c1x1V272.837 10.150c0x272.828c0y10.135c1x1V272.823 10.100c0x1c1x272.823c1y10.118V272.823 10.100c0x272.823c0y10.045c1x1V272.923 10.000c0x1c1x272.868c1y10.000</VertList>
+<PrimList>L0 1L1 2B2 3L3 4L4 5B5 6L6 7B7 8L8 9L9 10B10 11L11 12L12 13B13 14L14 15L15 16B16 17L17 18L18 19B19 20L20 21L21 22B22 23L23 24B24 25L25 0</PrimList>
+</Shape>
+</Children>
+</Shape>
+<Shape Type="Group">
+  <Children>
+  <Shape Type="Path" CutIndex="0">
+  <VertList>V316.123 10.000c0x1c1x1V296.123 10.000c0x1c1x1V296.123 10.000c0x296.068c0y10.000c1x1V296.023 10.100c0x1c1x296.023c1y10.045V296.023 44.741c0x1c1x1V296.023 44.741c0x296.023c0y44.796c1x1V296.123 44.841c0x1c1x296.068c1y44.841V296.123 44.841c0x296.159c0y44.841c1x1V296.210 44.791c0x1c1x296.192c1y44.822V303.160 32.753c0x1c1x1V303.160 32.753c0x303.210c0y32.667c1x1V303.160 32.753c0x1c1x303.073c1y32.703V308.269 35.703c0x1c1x1V308.269 35.703c0x308.317c0y35.731c1x1V308.406 35.667c0x1c1x308.378c1y35.714V314.406 25.274c0x1c1x1V314.406 25.274c0x314.434c0y25.227c1x1V314.369 25.138c0x1c1x314.417c1y25.165V309.260 22.188c0x1c1x1V309.260 22.188c0x309.173c0y22.138c1x1V309.260 22.188c0x1c1x309.210c1y22.274V316.210 10.150c0x1c1x1V316.210 10.150c0x316.219c0y10.135c1x1V316.223 10.100c0x1c1x316.223c1y10.118V316.223 10.100c0x316.223c0y10.045c1x1V316.123 10.000c0x1c1x316.178c1y10.000</VertList>
+<PrimList>L0 1L1 2B2 3L3 4L4 5B5 6L6 7B7 8L8 9L9 10B10 11L11 12L12 13B13 14L14 15L15 16B16 17L17 18L18 19B19 20L20 21L21 22B22 23L23 24B24 25L25 0</PrimList>
+</Shape>
+</Children>
+</Shape>
+<Notes ShowOnLoad="1" Notes="File created by Boxes.py script, programmed by Florian Festi.&#10;Lightburn output by Klaus Steinhammer.&#10;&#10;URL with settings:&#10;https://boxes.hackerspace-bamberg.de/Desksign?FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_bottom_lip=0.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Stackable_angle=60&amp;Stackable_bottom_stabilizers=0.0&amp;Stackable_height=2.0&amp;Stackable_holedistance=1.0&amp;Stackable_width=2.0&amp;width=225&amp;height=40&amp;angle=60&amp;label=MIKE+BAREMORE&amp;fontsize=25&amp;feet=0&amp;mirror=0&amp;mirror=1&amp;verticaltextoffset=-4&amp;thickness=6.0&amp;burn=0.1&amp;format=lbrn2&amp;labels=0&amp;labels=1&amp;reference=0&amp;tabs=0.0&amp;qr_code=0&amp;inner_corners=loop&amp;spacing=0.5&amp;debug=0&amp;language=en&amp;render=2" />
+</LightBurnProject>
